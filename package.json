@@ -1,7 +1,7 @@
 {
   "name": "@aambots/1",
-  "version": "0.0.4",
-  "description": "",
+  "version": "0.0.5",
+  "description": "1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/aambots/1.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "private": false,
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "public"
-  },
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
   "bugs": {
     "url": "https://github.com/aambots/1/issues"
   },
