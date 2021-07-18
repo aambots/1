@@ -1,6 +1,6 @@
 {
   "name": "@aambots/1",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,10 +14,6 @@
   "author": "",
   "license": "MIT",
   "private": false,
-  "publishConfig": {
-    "registry": "https://github.com/aambots",
-    "access": "public"
-  },
   "bugs": {
     "url": "https://github.com/aambots/1/issues"
   },
