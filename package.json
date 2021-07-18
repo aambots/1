@@ -15,7 +15,8 @@
   "license": "MIT",
   "private": false,
   "publishConfig": {
-    "registry": "https://github.com/aambots"
+    "registry": "https://github.com/aambots",
+    "access": "public"
   },
   "bugs": {
     "url": "https://github.com/aambots/1/issues"
